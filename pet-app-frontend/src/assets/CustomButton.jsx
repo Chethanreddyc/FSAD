@@ -16,7 +16,7 @@ const CustomButton = () => {
     });
     
     setTimeout(() => {
-      navigate('/music'); 
+      navigate('/signup'); 
     }, 2000);
   };
   
